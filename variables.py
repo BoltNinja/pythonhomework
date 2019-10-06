@@ -1,6 +1,6 @@
 #you have to type stuff in for inputs
-first = int(input("Enter number 1"))
-last = int(input("Enter number 2"))
+first = int(input("Enter first name"))
+last = int(input("Enter last name"))
 print(first + " " + last)
 
 

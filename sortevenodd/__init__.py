@@ -1,5 +1,5 @@
-modulus = int(input("Type a number right now!!!!!"))
-if modulus%2 == 1:
-    print("This is an odd number.")
+number = int(input("Please enter a positive integer.   "))
+if number%2 == 0:
+    print("This is an even number.")
 else:
-    print("This an even number.")
+    print("This is an odd number.")
