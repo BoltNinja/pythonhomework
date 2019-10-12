@@ -1,0 +1,2 @@
+shape = input("Enter shape.")
+if (shape=="Triangle")
