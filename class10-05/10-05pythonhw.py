@@ -10,7 +10,7 @@ trapezoid = "trapezoid"
 print("Which of these shapes do you want to find the perimeter and area?")
 print("A triangle, square, rectangle, parallelogram, circle, rhombus, or a trapezoid?")
 shape = input(print(""))
-if shape == triangle :
+if shape == pentagon
     triangleside1 = input("What is the measurement of the first side (the base of your triangle) of the triangle?")
     triangleside2 = input("What is the measurement of the second side of the triangle?")
     triangleside3 = input("What is the measurement of the third side of the triangle?")
